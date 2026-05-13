@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CareHub - Gestionnaire Hopital
 
 ## Groupe
@@ -42,3 +43,6 @@ et la richesse des composants natifs Java (JTable, JDialog, tri integre).
 | Membre 1 | model/ : classes abstraites + interfaces    |
 | Membre 2 | util/ + controller/ : generics + streams    |
 | Membre 3 | view/ : Swing + toutes les vues             |
+=======
+# CareHub
+>>>>>>> b96d0da181f7a425f4582c7c984148eb9ada5ae5
