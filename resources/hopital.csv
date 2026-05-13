@@ -1,0 +1,6 @@
+Patient,Bernard,Alice,0601010101,2024-01-10,Diabete
+Patient,Petit,Louis,0602020202,2024-01-12,Aucun
+Medecin,Martin,Jean,0603030303,Cardiologie,Cardiologue
+Medecin,Dupont,Sophie,0604040404,Urgences,Generaliste
+Infirmier,Leroy,Marc,0605050505,Chirurgie,Bloc A
+Urgence,Durand,Paul,0606060606,2024-01-15,Asthme,1,Crise cardiaque
