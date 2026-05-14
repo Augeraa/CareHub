@@ -2,7 +2,8 @@ package view;
 import model.*;
 import javax.swing.*;
 import java.awt.*;
-public class AjoutSoinDialog extends JDialog {
+public class
+AjoutSoinDialog extends JDialog {
     private Soin resultat = null;
     private final JComboBox<String> cbType = new JComboBox<>(new String[]{"Consultation","Chirurgie"});
     private final JTextField tfDate    = new JTextField(10);
